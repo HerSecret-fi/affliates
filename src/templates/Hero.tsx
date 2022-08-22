@@ -28,7 +28,7 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Kumppanuusohjelma\n'}
+            {'Kumppaniksi\n'}
             <span className="text-primary-500">Suosittele ja ansaitse.</span>
           </>
         }

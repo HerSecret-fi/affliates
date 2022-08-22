@@ -8,7 +8,7 @@ const VerticalFeatures = () => (
     description="Korkeat palkkiot, korkea tuottoprosentti. Saat maksut nopeasti - komissiot maksetaan jopa kerran viikossa."
   >
     <VerticalFeatureRow
-      title="Miten liityn kumppaanuusohjelmaan?"
+      title="Miten liityn kumppanuusohjelmaan?"
       description="Rekisteröidy julkaisijaksi saadaksesi henkilökohtaisen viittauslinkkisi. Liittyminen on helppoa - se onnistuu täyttämällä lyhyt lomake, jossa kysymme perustietoja sinusta ja yleisöstäsi. Jos olet jo jäsen Circlewise -yhteistyöverkostossa, etsi viittausohjelmamme Marketplace-sivustolta (HerSecret.fi)."
       image="/assets/images/hersecret-mekko.jpg"
       imageAlt="Miten liityn?"
