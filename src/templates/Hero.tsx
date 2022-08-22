@@ -24,7 +24,7 @@ const Hero = () => (
       </NavbarTwoColumns>
     </Section>
 
-    <Section yPadding="pt-20 pb-32">
+    <Section yPadding="pt-10 pb-12">
       <HeroOneButton
         title={
           <>
