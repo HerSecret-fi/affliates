@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
-  locale: 'en',
+  site_name: 'HerSecret.fi affliates',
+  title: 'HerSecret.fi kumppanuusohjelma',
+  description:
+    'Rekisteröidy kumppanuusohjelmaamme ja ansaitse rahaa jakamalla viittauslinkkiämme!',
+  locale: 'fi',
 };
