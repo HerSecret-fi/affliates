@@ -5,12 +5,12 @@ const VerticalFeatures = () => (
   <Section
     id="miksikumppaniksi"
     title="Miksi liittyä kumppaniksi?"
-    description="Korkeat palkkiot, nopeat maksut. Korkea tuottoprosentti."
+    description="Korkeat palkkiot, korkea tuottoprosentti. Saat maksut nopeasti - komissiot maksetaan jopa kerran viikossa."
   >
     <VerticalFeatureRow
       title="Miten liityn kumppaanuusohjelmaan?"
-      description="Rekisteröidy julkaisijaksi saadaksesi henkilökohtaisen viittauslinkkisi. Jos olet jo jäsen Circlewise -yhteistyöverkostossa, etsi viittausohjelmamme Marketplace-sivustolta (HerSecret.fi)"
-      image="/assets/images/feature.svg"
+      description="Rekisteröidy julkaisijaksi saadaksesi henkilökohtaisen viittauslinkkisi. Liittyminen on helppoa - se onnistuu täyttämällä lyhyt lomake, jossa kysymme perustietoja sinusta ja yleisöstäsi. Jos olet jo jäsen Circlewise -yhteistyöverkostossa, etsi viittausohjelmamme Marketplace-sivustolta (HerSecret.fi)."
+      image="/assets/images/hersecret-mekko.jpg"
       imageAlt="Miten liityn?"
     />
     <VerticalFeatureRow
@@ -23,7 +23,7 @@ const VerticalFeatures = () => (
     <VerticalFeatureRow
       title="Ansaitse palkkiota"
       description="Kun julkaisulinkkisi tuottaa myyntiä, saat palkkion tuotetusta myynnistä. Helppoa!"
-      image="/assets/images/feature3.svg"
+      image="/assets/images/feature2.svg"
       imageAlt="Ansaitse palkkiota tuotetusta myynnistä"
     />
   </Section>
