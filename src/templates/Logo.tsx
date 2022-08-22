@@ -1,4 +1,4 @@
-import { AppConfig } from '../utils/AppConfig';
+import Image from 'next/image';
 
 type ILogoProps = {
   xl?: boolean;
@@ -13,7 +13,7 @@ const Logo = (props: ILogoProps) => {
   return (
     <span className={`text-gray-900 inline-flex items-center ${fontStyle}`}>
       <svg
-        className="text-primary-500 stroke-current mr-1"
+        className="text-primary-900 stroke-current mr-1"
         xmlns="http://www.w3.org/2000/svg"
         width={size}
         height={size}
@@ -30,7 +30,12 @@ const Logo = (props: ILogoProps) => {
         <path d="M4 20h14" />
       </svg>
 
-      {AppConfig.site_name}
+      <Image
+        src="/assets/images/HerSecret-fi-logo-min.png"
+        alt="HerSecret.fi - kun haluat erottua eduksesi"
+        width={127}
+        height={40}
+      />
     </span>
   );
 };
