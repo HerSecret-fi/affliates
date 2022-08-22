@@ -1,6 +1,7 @@
 import { ReactNode } from 'react';
 
 type ISectionProps = {
+  id?: string;
   title?: string;
   description?: string;
   yPadding?: string;
@@ -9,6 +10,7 @@ type ISectionProps = {
 
 const Section = (props: ISectionProps) => (
   <div
+    id={props.id}
     className={`max-w-screen-lg mx-auto px-3 ${
       props.yPadding ? props.yPadding : 'py-16'
     }`}

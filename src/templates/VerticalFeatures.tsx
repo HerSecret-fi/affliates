@@ -3,6 +3,7 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
+    id="miksikumppaniksi"
     title="Miksi liittyä kumppaniksi?"
     description="Korkeat palkkiot, nopeat maksut. Korkea tuottoprosentti."
   >
