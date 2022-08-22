@@ -16,7 +16,7 @@ const VerticalFeatures = () => (
     <VerticalFeatureRow
       title="Jaa linkki julkaisuissasi"
       description="Jaa viittauslinkkisi yleisöllesi esim. blogissasi, Instagramissa tai muussa kanavassa."
-      image="/assets/images/feature2.svg"
+      image="/assets/images/feature.svg"
       imageAlt="Jaa linkki yleisöllesi"
       reverse
     />
