@@ -3,27 +3,27 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="Miksi liittyä kumppaniksi?"
+    description="Korkeat palkkiot, nopeat maksut. Korkea tuottoprosentti."
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Miten liityn kumppaanuusohjelmaan?"
+      description="Rekisteröidy julkaisijaksi saadaksesi henkilökohtaisen viittauslinkkisi. Jos olet jo jäsen Circlewise -yhteistyöverkostossa, etsi viittausohjelmamme Marketplace-sivustolta (HerSecret.fi)"
       image="/assets/images/feature.svg"
-      imageAlt="First feature alt text"
+      imageAlt="Miten liityn?"
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Jaa linkki julkaisuissasi"
+      description="Jaa viittauslinkkisi yleisöllesi esim. blogissasi, Instagramissa tai muussa kanavassa."
       image="/assets/images/feature2.svg"
-      imageAlt="Second feature alt text"
+      imageAlt="Jaa linkki yleisöllesi"
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Ansaitse palkkiota"
+      description="Kun julkaisulinkkisi tuottaa myyntiä, saat palkkion tuotetusta myynnistä. Helppoa!"
       image="/assets/images/feature3.svg"
-      imageAlt="Third feature alt text"
+      imageAlt="Ansaitse palkkiota tuotetusta myynnistä"
     />
   </Section>
 );
