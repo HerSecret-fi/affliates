@@ -7,8 +7,8 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Liity HerSecret.fi kumppanuusohjelmaan"
-      subtitle="Ansaitse rahaa suosittelemalla meitä seuraajillesi. Onko sinulla yli 1500 suomalaista seuraajaa Instagramissa? Ota yhteyttä miia@hersecret.fi kysyäksesi tuoteyhteistyöstä."
+      title="Liity HerSecret.fi kumppanuusohjelmaan ja ansaitse rahaa"
+      subtitle="Onko sinulla yli 1500 suomalaista seuraajaa IG:ssä? Ota yhteyttä miia@hersecret.fi ja kysy tuoteyhteistyöstä."
       button={
         <Link href="https://hersecret.targetcircle.com/signup?ref=hersecret">
           <a>
