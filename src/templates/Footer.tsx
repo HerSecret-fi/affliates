@@ -61,7 +61,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="mailto:miia@hersecret.fi">
+          <Link href="mailto:yhteistyo@hersecret.fi">
             <a>Kysy tuoteyhteistyöstä</a>
           </Link>
         </li>
