@@ -8,7 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Liity HerSecret.fi kumppanuusohjelmaan ja ansaitse rahaa"
-      subtitle="Onko sinulla yli 2000 suomalaista seuraajaa IG:ssä? Ota yhteyttä yhteistyo@hersecret.fi ja kysy tuoteyhteistyöstä."
+      subtitle="Onko sinulla yli 2000 suomalaista seuraajaa IG:ssä? Ota yhteyttä asiakaspalvelu@hersecret.fi ja kysy tuoteyhteistyöstä."
       button={
         <Link href="https://hersecret.targetcircle.com/signup?ref=hersecret">
           <a>
